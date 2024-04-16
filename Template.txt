@@ -1,0 +1,4 @@
+Release Notes for Version {version_number} ({date})
+Chnages: 
+- {Changes_1}
+- {Changes_2}
